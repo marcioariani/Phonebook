@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AgendaDEF</string>
+    <string name="title_activity_main">AgendaDEF</string>
+    <string name="title_activity_update">Contato</string>
+</resources>
